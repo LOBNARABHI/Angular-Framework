@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoibG9ibmEiLCJsYXN0TmFtZSI6InJhYmhpIiwiZW1haWwiOiJsb2JuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.A-0nWV2zAYPGDMF9Ai-GzSRGy-_4ASUGcPmn-CEwDG0"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoibG9ibmEiLCJsYXN0TmFtZSI6InJhYmhpIiwiZW1haWwiOiJsb2JuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.HrJeEhhSVRMMeSIE1MIb8cLM3jgQ7X_ZLImU77Nn9bU"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoibG9ibmEiLCJsYXN0TmFtZSI6InJhYmhpIiwiZW1haWwiOiJsb2JuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.8SAmrqcRplrlG-yfamrw9Y6ZeGCcCvz7nk5mFX7MrjM"
+    }
+  ],
+  "products": [
+    {
+      "id": "7",
+      "name": "painter",
+      "price": 5400,
+      "checked": false
+    },
+    {
+      "id": "66ee",
+      "name": "ordinateur ",
+      "price": "4200",
+      "checked": true
+    },
+    {
+      "name": "oor",
+      "price": "3000",
+      "checked": false,
+      "id": "sr4vc0N"
+    },
+    {
+      "name": "oor",
+      "price": "3000",
+      "checked": true,
+      "id": "SnPbTE5"
+    },
+    {
+      "name": "oor",
+      "price": "3000",
+      "checked": false,
+      "id": "G_10qg2"
+    },
+    {
+      "name": "kkkkkkk",
+      "price": "2500",
+      "checked": true,
+      "id": "eAvS5x6"
+    },
+    {
+      "name": "kkkkkkk",
+      "price": "2500",
+      "checked": true,
+      "id": "fzAkDLM"
+    },
+    {
+      "name": "kkkkkkk",
+      "price": "2500",
+      "checked": false,
+      "id": "oUoYDAB"
+    },
+    {
+      "name": "kkkkkkk",
+      "price": "2500",
+      "checked": false,
+      "id": "Fg7ujoO"
+    },
+    {
+      "name": "ssssssss",
+      "price": "2500",
+      "checked": false,
+      "id": "Fd1PaWQ"
+    },
+    {
+      "name": "mac",
+      "price": "5000",
+      "checked": true,
+      "id": "OpJIZsf"
+    },
+    {
+      "id": "NmKeVg4",
+      "name": "kkkkkkk",
+      "price": "200",
+      "checked": false
+    }
+  ]
+}
